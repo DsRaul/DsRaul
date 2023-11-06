@@ -6,9 +6,11 @@
     <h1 align="center">Data Science | Data Analyst | Industrial Automation </h1>
     <h3 align="center">Data.</h3>
 </div>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" height="400" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="450" height="450" /></p>
 
-👨‍💻 About Me :
+<div align="left">
+    <h3>💻 About Me:</h3>
+</div>
 
 - :credit_card: My full name is **Raul Santos Chañe Muñoz** 
 - :school: I studied 5 years at **University National of San Agustin**
@@ -31,11 +33,11 @@
 
 <p align="center">
   <a href="mailto: rchane.munoz@gmail.com" >
-    <img align="center" alt="DsRaul | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="DsRaul | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/raul-cm/" target="_blank">
-    <img align="center" alt="DsRaul | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="DsRaul | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   
   
