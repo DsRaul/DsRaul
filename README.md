@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-    <h1 align="center">Industrial Automation | Data Science | Data Analyst</h1>
+    <h1 align="center">Data Science | Data Analyst | Industrial Automation </h1>
     <h3 align="center">Data.</h3>
 </div>
 ---
