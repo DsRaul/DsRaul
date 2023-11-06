@@ -18,7 +18,7 @@
 - :earth_asia: I'm living now in **Lima, Peru**
 - :sweat_smile: I'm a intermediate in coding :penguin:
 - :monocle_face: I'm interested in analysis of data, Coding, and travel.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1vzAfnhBYYvng-meuRKY0shgxt2pTV1ck/view?usp=sharing) to get more info.
 
 
 <div align="left">
