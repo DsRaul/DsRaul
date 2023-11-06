@@ -6,9 +6,9 @@
     <h1 align="center">Data Science | Data Analyst | Industrial Automation </h1>
     <h3 align="center">Data.</h3>
 </div>
-
-### 👨‍💻 About Me :
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+### 👨‍💻 About Me :
+
 - :credit_card: My full name is **Raul Santos Chañe Muñoz** 
 - :school: I studied 5 years at **University National of San Agustin**
 - :books: My major is **Electronic Engineering**
