@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=60&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I%27m+Raul+<3;Data+Sciene+and +Automation+Loveeer!!!;Welcome+to+my+profile!" alt="Title"></img>
+</div>
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Raul Santos Chañe Muñoz</h1>
