@@ -19,7 +19,7 @@
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
         <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
-        <img src="https://gist.github.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f#file-sql-server-icon-svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/Ensono/azure-vector-icons/blob/master/icons/SQL%20Database%20(Generic).svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/blob/master/Office%20365/SVG/Excel-Doc.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
       </div>
 </div>
