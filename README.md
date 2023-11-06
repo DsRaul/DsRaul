@@ -29,7 +29,9 @@
       </div>
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
+<div align="left">
+    <h3>💻 For More Information, Please Check Out or Connect Me Via :</h3>
+</div>
 
 <p align="center">
   <a href="mailto: rchane.munoz@gmail.com" >
