@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Raul Santos Chañe Muñoz</h1>
+    <h1 align="center">Industrial Automation | Data Science | Data Analyst</h1>
     <h3 align="center">Data.</h3>
 </div>
 ---
@@ -29,6 +29,3 @@
 
 ---
 
-### 📊 My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
