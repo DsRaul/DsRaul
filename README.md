@@ -30,7 +30,7 @@
 </div>
 
 <div align="left">
-    <h3>💻 For More Information, Please Check Out or Connect Me Via :</h3>
+    <h3>💻 For More Information, Connect Me Via :</h3>
 </div>
 
 <p align="center">
