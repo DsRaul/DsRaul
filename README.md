@@ -6,7 +6,7 @@
     <h1 align="center">Data Science | Data Analyst | Industrial Automation </h1>
     <h3 align="center">Electronic engineer with 2 years of experience in industrial automation. Seeking to transition into data science roles to apply analytical skills in statistical modeling and machine learning algorithms. Passionate about leveraging data to drive insights and help businesses.</h3>
 </div>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" height="400" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="450" height="450" /></p>
 
 <div align="left">
     <h3>💻 About Me:</h3>
