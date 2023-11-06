@@ -6,7 +6,7 @@
     <h1 align="center">Data Science | Data Analyst | Industrial Automation </h1>
     <h3 align="center">Data.</h3>
 </div>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="600" height="600" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="500" height="500" /></p>
 
 👨‍💻 About Me :
 
