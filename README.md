@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me :
 
-- :credit_card: My full name is **Raul Santos Chañe Muñoz**
+- :credit_card: My full name is **Raul Santos Chañe Muñoz** <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 - :school: I studied 5 years at **University National of San Agustin**
 - :books: My major is **Electronic Engineering**
 - :earth_asia: I'm living now in **Lima, Peru**
