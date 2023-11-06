@@ -6,7 +6,6 @@
     <h1 align="center">Data Science | Data Analyst | Industrial Automation </h1>
     <h3 align="center">Data.</h3>
 </div>
----
 
 ### 👨‍💻 About Me :
 
@@ -26,8 +25,6 @@
         <img src="https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/blob/master/Office%20365/SVG/Excel-Doc.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
       </div>
 </div>
-
----
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
